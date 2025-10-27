@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Personal webpage of Thibault Scoquart"
-title_separator          : "-"
+site_theme               : "default" # Currently available options are "default", "air"
+title                    : #"Personal webpage of Thibault Scoquart"
+title_separator          : #"-"
 name                     : &name "Thibault Scoquart"
 description              : &description "Personal webpage of Thibault Scoquart"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://thibaultscoquart.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Thibault Scoquart"
   pronouns         : # example: "she/her"  
-  bio              : "I am a theoretical physicist, currently working as a postdoc in LPT, Toulouse. My research revolves around the theory of many-body quantum systems, notably in condensed matter and disordered systems/localization pehnomena. I am also very interested in (digital) quantum simulation on NISQ devices."
+  bio              : "French postdoctoral researcher in theoretical physics"
   location         : "France"
   employer         : "Laboratoire de Physique Théorique, UMR"
   uri              : # URL
