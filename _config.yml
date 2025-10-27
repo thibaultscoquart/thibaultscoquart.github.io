@@ -23,7 +23,7 @@ repository               : "thibaultscoquart/thibaultscoquart.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/Konigstein_pic_2024.jpg"
   name             : "Thibault Scoquart"
   pronouns         : # example: "she/her"  
   bio              : "French postdoctoral researcher in theoretical physics"
