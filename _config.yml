@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "                "
+title                    : ""
 title_separator          : #"-"
 name                     : &name "Thibault Scoquart"
 description              : &description "Personal webpage of Thibault Scoquart"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "Konigstein_pic_2024.jpg"
   name             : "Thibault Scoquart"
   pronouns         : # example: "she/her"  
-  bio              : "French postdoctoral researcher in theoretical physics"
+  bio              : "Postdoctoral researcher in theoretical physics"
   location         : "France"
   employer         : "Laboratoire de Physique Théorique, UMR"
   uri              : # URL
