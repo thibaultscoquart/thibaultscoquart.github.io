@@ -1,12 +1,11 @@
 ---
 permalink: /
-title: "Personal webpage of Thibault Scoquart, Ph.d."
+title: "Personal webpage of Thibault Scoquart"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
 About me
 ------
 
